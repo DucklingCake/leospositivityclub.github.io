@@ -548,10 +548,10 @@ figure {
   color: #fff !important;
 }
 .services h3 {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
   color: #fff;
-  color: #FBFFA3;
+  font-style: italic;
 }
 .services p {
   font-size: 16px;
